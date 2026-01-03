@@ -1,0 +1,274 @@
+[
+    {
+        "question": "Which of the following is an example of quantitative observation?",
+        "options": [
+            "the piece of metal is longer than the piece of wood",
+            "solution 1 is much darker than solution 2",
+            "the liqued in beaker A is blue",
+            "the temperature of the liquid is 60 C",
+            "at least two of the above (A-D) are quantitative observations"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A quantitative observation",
+        "options": [
+            "contains a number and a unit",
+            "does not contain a number",
+            "always makes a cmparison",
+            "must be obtained through experimentation",
+            "is none of these"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Generally, observed behavior that can be formulated into a statement, sometimes mathematical in nature, is called a(n)",
+        "options": [
+            "observation",
+            "measurement",
+            "theory",
+            "natural law",
+            "experment"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The statement (The total mass of materials not affected by a chemical change in those materials) is called a(n)",
+        "options": [
+            "observation",
+            "measurement",
+            "theory",
+            "natural law",
+            "experment"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A chemical theory that has been known for a long time becomes a law",
+        "options": [
+            "T",
+            "F"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following metric relationships is incorrect?",
+        "options": [
+            "1 microliter = $10^{-6}$ &nbsp; liters",
+            "1 gram = $10^{3}$ kilograms",
+            "$10^{3}$ milliliters = 1 liter",
+            "1 gram = $10^{2}$ centigrams",
+            "10 decimeters = 1 meter"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "For which pair is the SI prefix not matched correctly with its meaning?",
+        "options": [
+            "mega = $10^{6}$",
+            "kilo = 1000",
+            "deci = 10",
+            "nano = $10^{-9}$",
+            "centi = 0.01 "
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A metric unit for length is",
+        "options": [
+            "gram",
+            "milliliter",
+            "yard",
+            "kilometer",
+            "pound"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is not a unit in the SI system?",
+        "options": [
+            "ampere",
+            "candela",
+            "kelvin",
+            "meter",
+            "calorie"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "order the four metric prefixes from smallest to largest.",
+        "options": [
+            "nano < milli < centi < kilo",
+            "milli < nano < centi < kilo",
+            "kilo < centi < nano< milli",
+            "kilo < centi < milli < nano",
+            "centi < nano < kilo < milli"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "8.1 kilogram(s) contains this many grams.",
+        "options": [
+            "$8.1 \\times 10^{2}$",
+            "$8.1 \\times 10^{3}$",
+            "81",
+            "0.81",
+            "$8.1 \\times 10^{-3}$"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "convert 0.3980 m to mm.",
+        "options": [
+            "398.0 mm",
+            "$3.980 \\times 10^{-3}$ mm",
+            "$3.980 \\times 10^{-4}$ mm",
+            "0.03980 mm",
+            "none of these"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "6.1 seconds contain this many picoseconds.",
+        "options": [
+            "$6.1 \\times 10^{12}$",
+            "$6.1 \\times 10^{-12}$",
+            "$6.1 \\times 10^{-9}$",
+            "$6.1 \\times 10^{9}$",
+            "$6.1 \\times 10^{15}$"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "9.49 seconds contain this many nanoseconds.",
+        "options": [
+            "$9.49 \\times 10^{7}$",
+            "$9.49 \\times 10^{9}$",
+            "$9.49 \\times 10^{12}$",
+            "$9.49 \\times 10^{10}$",
+            "$9.49 \\times 10^{8}$"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The distance of 21 km equals",
+        "options": [
+            "0.021 m",
+            "0.21 m",
+            "210",
+            "2100",
+            "$2.1 \\times 10^{4}$"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "What is the measure of resistance an object has to change in its state of motion?",
+        "options": [
+            "mass",
+            "weight",
+            "volume",
+            "length",
+            "none of these"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The degree of agreement among several measurements of the same quantity is called ................., it reflects the reproducibility of a given type of measurement.",
+        "options": [
+            "accuracy",
+            "error",
+            "precision",
+            "significance",
+            "cetainty"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "As part of the calibration of a new laboratory balance, a 1.000-g mass is weighed with the following results: [Trial 1: 1.201, Trial 2: 1.202, Trial 3: 1.200]. The balance is:",
+        "options": [
+            "Both accurate and precise.",
+            "Accurate but imprecise.",
+            "Precise but inaccurate.",
+            "Both inaccurate and imprecise.",
+            "$Accuracy and precision are impossible to determine."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following figure(s) represent a result having high precision?",
+        "options": [
+            "Figure I only",
+            "Figure II only",
+            "Figure III only",
+            "Figure I and Figure II",
+            "Figure II and Figure III"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which of the following statements concerning these figures is correct?",
+        "options": [
+            "Figure I represents systematic error and Figure II represents random error.",
+            "Figure I represents random error and Figure II represents systematic error.",
+            "Figure I and Figure II represent random error",
+            "Figure I and Figure II represent systematic error",
+            "Figure III represents no errors"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is the least probable concerning five measurements taken in the lab?",
+        "options": [
+            "The measurements are accurate and precise.",
+            "The measurements are accurate but not precise.",
+            " The measurements are precise but not accurate.",
+            "The measurements are neither accurate nor precise.",
+            " All of these are equally probable."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You measure water in two containers: a 10-mL graduated cylinder with marks at every mL, and a 1-mL pipet marked at every 0.1 mL. If you have some water in each of the containers and add them together, to what decimal place could you report the total volume of water?",
+        "options": [
+            "0.01 mL",
+            "0.1 mL",
+            " 1 mL",
+            "10 mL",
+            "is none of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The agreement of a particular value with the true value is called",
+        "options": [
+            "accuracy",
+            "error",
+            "precision",
+            "significance",
+            "certainty"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is nonmetal?",
+        "options": [
+            "sodium",
+            "iron",
+            "sulfur",
+            "calcium",
+            "silver"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the charge of sulfide ion?",
+        "options": [
+            "+1",
+            "+2",
+            "-1",
+            "-2",
+            "0"
+        ],
+        "answer": 3
+    }
+]
